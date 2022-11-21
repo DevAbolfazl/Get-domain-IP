@@ -15,4 +15,4 @@ Put the get-domain-ip.php file in the host and enter it. Enter the domain name w
 If the entered domain is incorrect, or your server does not have access to the Internet, it will return the same value as given.
 
 ## Licence
-Get domain IP Composer is licensed under the MIT License
+Get domain IP is licensed under the MIT License
