@@ -1,5 +1,5 @@
 <!--
-    Source Tak | Get domain IP - Version 0.1.1 - 2022/11/20
+    Source Tak | Get domain IP - Version 1.0.0 - 2022/11/20
     https://srctak.ir
  -->
 <!doctype html>
