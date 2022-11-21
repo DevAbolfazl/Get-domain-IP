@@ -1,0 +1,23 @@
+{
+  "name": "srctak/get-domain-ip",
+  "type": "library",
+  "description": "Find server ip from domain",
+  "homepage": "https://srctak.ir",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Abolfazl",
+      "email": "admin@srctak.ir",
+      "homepage": "https://srctak.ir",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=4.0.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Monolog": "src"
+    }
+  }
+}
