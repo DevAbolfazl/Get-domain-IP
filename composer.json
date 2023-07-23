@@ -1,14 +1,14 @@
 {
-  "name": "srctak/get-domain-ip",
+  "name": "devabolfazl/get-domain-ip",
   "type": "library",
   "description": "Find server ip from domain",
-  "homepage": "https://srctak.ir",
+  "homepage": "https://web-learner.ir",
   "license": "MIT",
   "authors": [
     {
       "name": "Abolfazl",
-      "email": "admin@srctak.ir",
-      "homepage": "https://srctak.ir",
+      "email": "abolfazl@web-learner.ir",
+      "homepage": "https://web-learner.ir",
       "role": "Developer"
     }
   ],
