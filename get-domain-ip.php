@@ -1,8 +1,4 @@
-<!--
-    Source Tak | Get domain IP - Version 1.0.0 - 2022/11/20
-    https://srctak.ir
- -->
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
@@ -28,7 +24,7 @@
         <h5><code>Made in Iran</code></h5>
         <br>
         <form name="get-ip-form" action="get-domain-ip.php" method="post">
-            <input type="text" name="domain" placeholder="Enter domain (e.g. srctak.ir)">
+            <input type="text" name="domain" placeholder="Enter domain (e.g. web-learner.ir)">
             <input type="submit" name="submit" value="Show IP" style="margin-top: 10px;">
             <br><br>
             <?php
