@@ -21,12 +21,13 @@
     <div class="main-div">
         <h1><a href="https://srctak.ir/">Source Tak</a></h1>
         <h2><code>Get domain IP</code></h2>
-        <h5><code>Made in Iran</code></h5>
+        <h5><code><---| web-learner.ir |---></code></h5>
         <br>
         <form name="get-ip-form" action="get-domain-ip.php" method="post">
             <input type="text" name="domain" placeholder="Enter domain (e.g. web-learner.ir)">
             <input type="submit" name="submit" value="Show IP" style="margin-top: 10px;">
             <br><br>
+            
             <?php
 
             if(isset($_POST["submit"]) && $_POST["domain"] != null)
@@ -35,6 +36,7 @@
             }
 
             ?>
+                
         </form>
     </div>
 </body>
